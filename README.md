@@ -38,4 +38,4 @@ This project analyzes 365 days of ad campaign data from **Facebook** and **AdWor
 Insights suggest reallocating budget to the better-performing platform could lead to a more cost-efficient campaign.
 
 ## 📬 Contact
-For questions or collaborations, reach out at [your email or LinkedIn].
+For questions, reach out at himanshuarora.147@gmail.com
